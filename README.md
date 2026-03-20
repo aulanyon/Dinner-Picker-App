@@ -3,7 +3,7 @@ A small app I created that helps you decide if you are eating fast food, dining 
 
 
 ## MAIN FUNCTIONALITIES
--Randomly selects a resturante or dinner idea from multiple categories
+-Randomly selects a restaurant or dinner idea from multiple categories
 -Displays said result in a JavaFX window
 -Beginner-friendly design
 
